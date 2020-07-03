@@ -1,0 +1,25 @@
+{
+  "Trainer Name": "Red",
+  "homeTown": "Pallet Town",
+  "born": 1996,
+  "partyPokemon": [
+    {
+      "name": "Pikachu",
+      "level": 81,
+      "type": "Electric",
+      "moves": ["Charm", "Quick Attack", "Thunderbolt", "Thunder"]
+    },
+    {
+      "name": "Blastoise",
+      "level": 84,
+      "type": "Water",
+      "moves": ["Rain Dance", "Blizzard", "Surf", "Whirlpool"]
+    },
+    {
+      "name": "Snorlax",
+      "level": 75,
+      "type": "Normal",
+      "moves": ["Amnesia", "Snore", "Rest", "Body Slam"]
+    }
+  ]
+}
